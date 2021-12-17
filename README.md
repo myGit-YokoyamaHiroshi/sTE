@@ -1,5 +1,5 @@
-# sTE
-Python module of symbolic transfer entropy (sTE)
+# sTE<br>
+Python module of symbolic transfer entropy (sTE)<br>
 This script is modified version for : https://github.com/mariogutierrezroig/smite
 
 # Requirements<br>
